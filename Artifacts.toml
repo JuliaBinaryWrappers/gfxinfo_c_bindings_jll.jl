@@ -1,0 +1,80 @@
+[[gfxinfo_c_bindings]]
+arch = "aarch64"
+git-tree-sha1 = "3c7e9553a319d3ab1232b355056948c535e0a573"
+os = "macos"
+
+    [[gfxinfo_c_bindings.download]]
+    sha256 = "31f1f51e2aaf474be91d5a233513c3e6e61ef91bb9130f20bd6f2f202ce036e6"
+    url = "https://github.com/JuliaBinaryWrappers/gfxinfo_c_bindings_jll.jl/releases/download/gfxinfo_c_bindings-v0.1.0+0/gfxinfo_c_bindings.v0.1.0.aarch64-apple-darwin.tar.gz"
+[[gfxinfo_c_bindings]]
+arch = "aarch64"
+git-tree-sha1 = "e175898391afd0a99d206670c749796e4a0e0de5"
+libc = "glibc"
+os = "linux"
+
+    [[gfxinfo_c_bindings.download]]
+    sha256 = "dc5a4689de5ab866f397958acb97917caed831d4d41ad495f64b748a6636f1a3"
+    url = "https://github.com/JuliaBinaryWrappers/gfxinfo_c_bindings_jll.jl/releases/download/gfxinfo_c_bindings-v0.1.0+0/gfxinfo_c_bindings.v0.1.0.aarch64-linux-gnu.tar.gz"
+[[gfxinfo_c_bindings]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "0e574c6573a2a9185ebc6b1eccf6c2f4d3bb3c80"
+libc = "glibc"
+os = "linux"
+
+    [[gfxinfo_c_bindings.download]]
+    sha256 = "4a06211775b36bde30dfa31bf1fed162d016f6ab3d5c6e124df3761adfecd39c"
+    url = "https://github.com/JuliaBinaryWrappers/gfxinfo_c_bindings_jll.jl/releases/download/gfxinfo_c_bindings-v0.1.0+0/gfxinfo_c_bindings.v0.1.0.armv6l-linux-gnueabihf.tar.gz"
+[[gfxinfo_c_bindings]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "f2342da1a3da15f4bfe4909ecef7ca666e1914cd"
+libc = "glibc"
+os = "linux"
+
+    [[gfxinfo_c_bindings.download]]
+    sha256 = "6707bc9532e3ded46e02a0b474cd17085c22fa32503181b6507f6701813b63e6"
+    url = "https://github.com/JuliaBinaryWrappers/gfxinfo_c_bindings_jll.jl/releases/download/gfxinfo_c_bindings-v0.1.0+0/gfxinfo_c_bindings.v0.1.0.armv7l-linux-gnueabihf.tar.gz"
+[[gfxinfo_c_bindings]]
+arch = "i686"
+git-tree-sha1 = "262a347c09f830c07ca024b50b567caa8ba85c57"
+libc = "glibc"
+os = "linux"
+
+    [[gfxinfo_c_bindings.download]]
+    sha256 = "8821fc21186f91ca13835ebe872d8d1e9e544d3c5db62864e73af1f8af13bdaf"
+    url = "https://github.com/JuliaBinaryWrappers/gfxinfo_c_bindings_jll.jl/releases/download/gfxinfo_c_bindings-v0.1.0+0/gfxinfo_c_bindings.v0.1.0.i686-linux-gnu.tar.gz"
+[[gfxinfo_c_bindings]]
+arch = "powerpc64le"
+git-tree-sha1 = "e2b17252d030a0f7b4228893a8ccb8cfed8cfb04"
+libc = "glibc"
+os = "linux"
+
+    [[gfxinfo_c_bindings.download]]
+    sha256 = "07acb240c3ce87e8901f5765badc124572c6eb1444a24043538bf51ccac28a56"
+    url = "https://github.com/JuliaBinaryWrappers/gfxinfo_c_bindings_jll.jl/releases/download/gfxinfo_c_bindings-v0.1.0+0/gfxinfo_c_bindings.v0.1.0.powerpc64le-linux-gnu.tar.gz"
+[[gfxinfo_c_bindings]]
+arch = "x86_64"
+git-tree-sha1 = "aec4924d18982bd368bd322dd8aad17099b65372"
+os = "macos"
+
+    [[gfxinfo_c_bindings.download]]
+    sha256 = "c3a1a7212db753e90a9134c94ee3597e7e1d7a826d108ff9fd6c3bc3b51d8d10"
+    url = "https://github.com/JuliaBinaryWrappers/gfxinfo_c_bindings_jll.jl/releases/download/gfxinfo_c_bindings-v0.1.0+0/gfxinfo_c_bindings.v0.1.0.x86_64-apple-darwin.tar.gz"
+[[gfxinfo_c_bindings]]
+arch = "x86_64"
+git-tree-sha1 = "09fc4026c04807786268ddd5a440fbf48e01161e"
+libc = "glibc"
+os = "linux"
+
+    [[gfxinfo_c_bindings.download]]
+    sha256 = "4a25d0adae7c37316264702e2216e35e967db7bc28ef4e27234a7b9d6473de00"
+    url = "https://github.com/JuliaBinaryWrappers/gfxinfo_c_bindings_jll.jl/releases/download/gfxinfo_c_bindings-v0.1.0+0/gfxinfo_c_bindings.v0.1.0.x86_64-linux-gnu.tar.gz"
+[[gfxinfo_c_bindings]]
+arch = "x86_64"
+git-tree-sha1 = "ea92fc18a5268539edf24cb4e0ec451843e8f966"
+os = "windows"
+
+    [[gfxinfo_c_bindings.download]]
+    sha256 = "51be8689edc47d22155759e972dc9610fcba8970fd4310eb0b23fd8483900396"
+    url = "https://github.com/JuliaBinaryWrappers/gfxinfo_c_bindings_jll.jl/releases/download/gfxinfo_c_bindings-v0.1.0+0/gfxinfo_c_bindings.v0.1.0.x86_64-w64-mingw32.tar.gz"
